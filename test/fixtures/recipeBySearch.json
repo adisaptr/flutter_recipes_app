@@ -1,0 +1,14 @@
+{
+    "method": "GET",
+    "status": true,
+    "results": [
+        {
+            "title": "Resep Opor Ayam Putih",
+            "thumb": "https://opor-ayam-putih-400x240.jpg",
+            "key": "resep-opor-ayam-putih",
+            "times": "1jam",
+            "serving": "4 porsi",
+            "difficulty": "mudah"
+        }
+    ]
+}

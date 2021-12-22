@@ -1,0 +1,11 @@
+{
+    "method": "GET",
+    "status": true,
+    "results": [
+        {
+            "category": "Dessert",
+            "url": "https://www.masakapahariini.com/resep-masakan/resep-dessert/",
+            "key": "resep-dessert"
+        }
+    ]
+}

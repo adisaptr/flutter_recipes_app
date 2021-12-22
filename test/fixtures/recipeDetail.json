@@ -1,0 +1,33 @@
+{
+  "method": "GET",
+  "status": true,
+  "results": {
+    "title": "a",
+    "thumb": "a",
+    "servings": "a",
+    "times": "a",
+    "dificulty": "a",
+    "author": {
+      "user": "a",
+      "datePublished": "a"
+    },
+    "desc": "a",
+    "needItem": [
+      {
+        "item_name": "a",
+        "thumb_item": "a"
+      }
+    ],
+    "ingredient": [
+      "a",
+      "a",
+      "a"
+    ],
+    "step": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  }
+}
